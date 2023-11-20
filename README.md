@@ -5,3 +5,4 @@ Multiple implementations of the notorious Fizzbuzz
 - Crystal
 - Ruby
 - Rust
+- Lua
