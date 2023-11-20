@@ -1,10 +1,10 @@
 fn main() {
     for i in 1..101{
         match (i%3, i%5){
-            (0,0) => print!("FIZZBUZZ\n"),
-            (0,_) => print!("FIZZ\n"),
-            (_,0) => print!("BUZZ"),
-            _ => print!("{i}\n")
+            (0,0) => println!("FIZZBUZZ"),
+            (0,_) => println!("FIZZ"),
+            (_,0) => println!("BUZZ"),
+            _ => println!("{i}")
         }
     }
 }
