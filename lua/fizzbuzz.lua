@@ -2,7 +2,7 @@
 
 local i = 1
 while i < 101 do
-  if i % 3 == 0 and i % 5 == 0 then
+  if i % 15 == 0 then
       print "FIZZBUZZ"
   elseif  i % 3 == 0 then
       print("FIZZ")

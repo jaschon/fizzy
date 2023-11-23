@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 (1..100).each do |i|
-  if i%3 ==0 && i%5 == 0
+  if i%15 ==0
     puts "FIZZBUZZ"
   elsif i%3 == 0
     puts "FIZZ"
