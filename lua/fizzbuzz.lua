@@ -1,5 +1,4 @@
 #!/usr/bin/lua
-
 local i = 1
 while i < 101 do
   if i % 15 == 0 then
