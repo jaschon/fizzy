@@ -1,4 +1,4 @@
-# fizzy
+# fizzybuzz
 Multiple implementations of the notorious Fizzbuzz 
 
 - C
