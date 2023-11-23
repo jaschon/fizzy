@@ -6,3 +6,5 @@ Multiple implementations of the notorious Fizzbuzz
 - Ruby
 - Rust
 - Lua
+- C
+- Uiua
