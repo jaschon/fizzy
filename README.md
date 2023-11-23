@@ -1,10 +1,10 @@
 # fizzy
 Multiple implementations of the notorious Fizzbuzz 
 
-- Python
+- C
 - Crystal
+- Lua
+- Python
 - Ruby
 - Rust
-- Lua
-- C
 - Uiua
