@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-
-
 threes, fives = 1,1
 for i in range(1,101):
     match (threes, fives):
@@ -17,6 +15,3 @@ for i in range(1,101):
             print(i)
     threes += 1 
     fives += 1
-
-
-
